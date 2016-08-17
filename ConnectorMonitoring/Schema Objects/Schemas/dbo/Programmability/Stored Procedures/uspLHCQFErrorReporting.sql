@@ -13,6 +13,9 @@
 	<Source ServerName="LHCQFSQLPRD02" Source="PR-LARMC"></Source>
 	<Source ServerName="LHCQFSQLPRD02" Source="PR-OCHSNERED"></Source>
 	<Source ServerName="LHCQFSQLPRD02" Source="PR-LAMOELG"></Source>
+	<Source ServerName="LHCQFSQLPRD02" Source="PR-LALSU"></Source>
+	<Source ServerName="LHCQFSQLPRD02" Source="PR-BATGH"></Source>
+	<Source ServerName="LHCQFSQLPRD02" Source="PR-LADADE"></Source>
 </Sources>
 '
 	)
